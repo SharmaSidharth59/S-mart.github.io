@@ -1,0 +1,25 @@
+<?xml version="1.0">
+<Movie Festival>
+
+   <Regional>
+             <Language></language>
+             <Motto></Motto>
+  </Regional>
+
+
+  <Telefilm></Telefilm>
+
+
+  <Art Literature>
+               <Inspired From></Inspired From>
+               <Language></Language>
+               <Protagonist></Protagonist>
+  </Art Literature>
+
+  <cultural>
+           <Historical Significance></Historical Significance> 
+           <Motto></Motto>
+  </Cultural>
+
+ </Movie Festival>
+ 
